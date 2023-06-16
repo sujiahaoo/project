@@ -31,3 +31,10 @@ git config user.email
 #获取Git仓库(repo)
 自行初始化git仓库(git url)
 克隆远程仓库(git clone [repo_url])
+
+
+U (Untracked)未跟踪(新增)
+
+A (added)
+
+M (modified)跟踪后被修改
