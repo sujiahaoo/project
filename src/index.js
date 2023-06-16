@@ -2,7 +2,7 @@ import jQuery from "jquery";
 import _ from "lodash";
 import { a } from "@/script/app";
 import "@/style/index.less";
-import "./index.css"
+import "@/index.css"
 console.log(a);
 console.log(a);
 console.log(a);
